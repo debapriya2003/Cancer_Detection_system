@@ -1,4 +1,6 @@
----
+
+
+
 # 🩺 Breast Cancer Detection and Medical Chatbot (PyTorch + Streamlit + Mistral API)
 
 ## 📌 Project Overview
@@ -179,5 +181,4 @@ The predictions and chatbot outputs **must not be used for real-world medical de
 Always consult a **certified oncologist or medical professional** for actual diagnosis and treatment.
 
 ---
-
 
