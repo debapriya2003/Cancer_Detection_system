@@ -1,7 +1,7 @@
 
 
 
-# 🩺 Breast Cancer Detection and Medical Chatbot (PyTorch + Streamlit + Mistral API)
+# 🩺 Breast Cancer Detection and Medical Chatbot (PyTorch +  Mistral API)
 
 ## 📌 Project Overview
 This project combines **Deep Learning-based Breast Cancer detection** with a **medical chatbot** powered by the **Mistral API**.  
@@ -181,4 +181,5 @@ The predictions and chatbot outputs **must not be used for real-world medical de
 Always consult a **certified oncologist or medical professional** for actual diagnosis and treatment.
 
 ---
+
 
