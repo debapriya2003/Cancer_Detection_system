@@ -1,22 +1,4 @@
-Perfect 👍 Since you want a **detailed industry-standard markdown file** documenting this project, I’ll write a professional-level `README.md` that contains:
-
-* 📌 Project Overview
-* 📂 Project Structure
-* ⚙️ Tech Stack
-* 📊 Dataset Description
-* 🧠 Model Architecture
-* 🏋️ Training Details
-* 📈 Evaluation Metrics
-* 🤖 Chatbot + Medical Inference Integration
-* 🚀 Deployment Guide (Streamlit + Torch + Mistral API)
-* 🔮 Future Improvements
-* ⚠️ Disclaimer
-
-Here’s the complete **`README.md`**:
-
 ---
-
-
 # 🩺 Breast Cancer Detection and Medical Chatbot (PyTorch + Streamlit + Mistral API)
 
 ## 📌 Project Overview
@@ -197,4 +179,5 @@ The predictions and chatbot outputs **must not be used for real-world medical de
 Always consult a **certified oncologist or medical professional** for actual diagnosis and treatment.
 
 ---
+
 
